@@ -29,7 +29,6 @@ Live instances:
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux) - for deployment to Azure
 
 Clone the project to any directory where you do development work
-
 ```
 git clone https://github.com/benc-uk/python-demoapp.git
 ```
@@ -109,3 +108,5 @@ make deploy
 ## Running in Azure App Service (Windows)
 
 Just don't, it's awful
+
+CI/CD test run
